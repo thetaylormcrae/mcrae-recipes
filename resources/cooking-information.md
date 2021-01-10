@@ -10,21 +10,21 @@ nav_order: 2
 
 | Type      | Measurement                   | Equivalent                                                                                     |
 | --------- | ----------------------------- | ---------------------------------------------------------------------------------------------- |
-| General   | Dash                          | 2 to 3 drops or less than 1/8 teaspoon                                                         |
-| General   | 1 t                           | 1 teaspoon = 5 milliliters                                                                     |
-| General   | 1 T                           | 1 Tablespoon = 15 milliliters                                                                  |
-| General   | 1/8 c                         | 2 T = 1 fluid ounce = 30 milliliters                                                           |
-| General   | ¼ c                           | 4 T = 2 fluid ounces = 60 milliliters                                                          |
-| General   | ½ c                           | 8 T = 4 fluid ounces = 120 milliliters                                                         |
-| General   | 1 c                           | 6 T = 8 fluid ounces = 240 milliliters                                                         |
-| General   | 1 pint                        | 2 c = 16 fluid ounces = 480 milliliters                                                        |
-| General   | 1 qt                          | 1 quart = 4 cups = 32 fluid ounces = 960 milliliters (.96 liter)                               |
-| General   | 1 gallon                      | 4 quarts = 16 cups = 128 fluid ounces = 3.84 liters                                            |
-| General   | 1 oz                          | 1 ounce = 28.25 grams                                                                          |
-| General   | ¼ lb                          | ¼ pound = 4 ounces = 114 grams                                                                 |
-| General   | 1 lb                          | 1 pound = 16 ounces = 454 grams                                                                |
+| General   | Dash                          | 2 to 3 drops <br> less than 1/8 teaspoon                                                       |
+| General   | 1 t                           | 1 teaspoon <br> 5 milliliters                                                                  |
+| General   | 1 T                           | 1 Tablespoon <br> 15 milliliters                                                               |
+| General   | 1/8 c                         | 2 T <br> 1 fluid ounce <br> 30 milliliters                                                     |
+| General   | ¼ c                           | 4 T <br> 2 fluid ounces <br> 60 milliliters                                                    |
+| General   | ½ c                           | 8 T <br> 4 fluid ounces <br> 120 milliliters                                                   |
+| General   | 1 c                           | 6 T <br> 8 fluid ounces <br> 240 milliliters                                                   |
+| General   | 1 pint                        | 2 c <br> 16 fluid ounces <br> 480 milliliters                                                  |
+| General   | 1 qt                          | 1 quart <br> 4 cups <br> 32 fluid ounces <br> 960 milliliters (.96 liter)                      |
+| General   | 1 gallon                      | 4 quarts <br> 16 cups <br> 128 fluid ounces <br> 3.84 liters                                   |
+| General   | 1 oz                          | 1 ounce <br> 28.25 grams                                                                       |
+| General   | ¼ lb                          | ¼ pound <br> 4 ounces <br> 114 grams                                                           |
+| General   | 1 lb                          | 1 pound <br> 16 ounces <br> 454 grams                                                          |
 | General   | 1.06 qts                      | 1 liter                                                                                        |
-| General   | 2.2 pounds                    | 1000 grams = 1 kilogram                                                                        |
+| General   | 2.2 pounds                    | 1000 grams <br> 1 kilogram                                                                     |
 | Nuts      | 1 lb almonds in shell         | 1 to ¼ c shelled nuts                                                                          |
 | Nuts      | 1 lb shelled almonds          | 3 cups                                                                                         |
 | Nuts      | 1 lb almonds slivered         | 5 2/3 c nutmeat                                                                                |
