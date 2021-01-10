@@ -3,6 +3,7 @@ title: Candy and Confections
 has_children: true
 nav_order: 5
 parent: Recipes
+permalink: /recipes/candy-confections
 ---
 
 # Candy and Confections

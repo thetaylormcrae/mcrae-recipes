@@ -3,6 +3,7 @@ title: Sauces
 has_children: true
 nav_order: 13
 parent: Recipes
+permalink: /recipes/sauces
 ---
 
 # Sauces

@@ -3,6 +3,7 @@ title: Salads
 has_children: true
 nav_order: 12
 parent: Recipes
+permalink: /recipes/salads
 ---
 
 # Salads

@@ -3,6 +3,7 @@ title: Seafood
 has_children: true
 nav_order: 14
 parent: Recipes
+permalink: /recipes/seafood
 ---
 
 # Seafood

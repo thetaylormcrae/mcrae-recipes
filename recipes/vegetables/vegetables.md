@@ -3,6 +3,7 @@ title: Vegetables
 has_children: true
 nav_order: 16
 parent: Recipes
+permalink: /recipes/vegetables
 ---
 
 # Vegetables

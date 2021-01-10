@@ -3,6 +3,7 @@ title: Christmas
 has_children: true
 nav_order: 6
 parent: Recipes
+permalink: /recipes/christmas
 ---
 
 # Christmas
