@@ -1,4 +1,10 @@
-## COOKING INFORMATION
+---
+title: Cooking Information
+has_children: false
+nav_order: 2
+---
+
+## Cooking Information
 
 ### WEIGHTS & MEASURES
 
