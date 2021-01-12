@@ -4,19 +4,6 @@ color_scheme: 'light'
 search_enabled: true
 permalink: pretty
 
-# Defaults to from repeating myself
-defaults:
-  - scope:
-      path: '' # an empty string here means all files in the project
-      type: 'pages'
-    values:
-      layout: 'default'
-
-  - scope:
-      path: 'recipes' # an empty string here means all files in the project
-    values:
-      layout: 'recipes'
-
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: 'Edit this page on GitHub'
