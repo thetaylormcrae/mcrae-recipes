@@ -9,4 +9,3 @@ permalink: /recipes/cookies
 # Cookies
 
 You'll find all of the recipes for *Cookies* in this section
-
