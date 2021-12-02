@@ -7,6 +7,8 @@ permalink: /recipes
 
 # Recipes
 
-Test this
+<p style="text-align:center">
+    <img src="../resources/images/4-year-old-food-pyramid.png">
+</p>
 
-blah
+> Welcome to the recipe section of the McRae Clan cook book!
