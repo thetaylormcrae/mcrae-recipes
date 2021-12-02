@@ -8,11 +8,13 @@ permalink: /
 
 # Clan McRae Cook Book
 
-> Compiled by: John & Pennie McRae
->
-> Date: 2000-06-??
+| Compiled by         | Date    |
+| ------------------- | ------- |
+| John & Pennie McRae | 2000-06 |
 
-![](media\image1.png)
+<p style="text-align:center">
+    <img src="./resources/images/vera-mcrae.png">
+</p>
 
 > This Cookbook Dedicated to Vera Jane Pitkin McRae (***July 29, 1911 to October 20, 1983***)
 
